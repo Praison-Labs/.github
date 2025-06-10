@@ -87,7 +87,6 @@ Our development is **developer-focused**, with extensive documentation, simple A
 
 We are actively building the future of **multi-agent AI systems**, and we welcome **developers, researchers, AI enthusiasts, and contributors** to join our community.
 
-🔗 Check out our **[Contributing Guide](CONTRIBUTING.md)** to get started.
 
 ## 🌍 Connect With Us
 
