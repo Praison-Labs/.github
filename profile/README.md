@@ -1,6 +1,6 @@
 # Praison AI - Pioneering Multi-Agent AI Innovation
 
-![Praison AI Logo](profile/logo_dark.png)
+![Praison AI Logo](./logo_dark.png)
 
 ## About Praison AI
 
